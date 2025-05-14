@@ -1,0 +1,3 @@
+model_checkpoint_path: "/content/drive/MyDrive/Colab Notebooks/BML models/final model/Finetuned/heating/Model_V8-100"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Colab Notebooks/BML models/final model/Finetuned/heating/Model_V8-100"
+
