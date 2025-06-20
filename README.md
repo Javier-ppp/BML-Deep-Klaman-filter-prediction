@@ -47,3 +47,12 @@ This is a migrated version of the original architecture that can run inference o
 - Published dataset adapted for this version
 - Split into multiple files (due to GitHub's 100MB file limit)
 - Includes splitting and stitching function to reassemble dataset
+
+
+**Validation **
+
+created validation datasets from the PLEAID dataset
+from building A rooms 67,69 and 71 where selected 
+67- energy savings case 
+69 - comfort case 
+71- passive 
